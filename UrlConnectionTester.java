@@ -1,0 +1,5 @@
+{
+  "name": "Java",
+  "image": "mcr.microsoft.com/devcontainers/java:0-17",
+  "features": {}
+}
